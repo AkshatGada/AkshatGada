@@ -5,12 +5,12 @@
 ### 💼 Experience:
 - **Ethereum Protocol Fellow** @ Ethereum Protocol Fellowship
   - 🏗️ Mastered Execution client architecture, Consensus client architecture, Engine API, SSZ, JSON-RPC, DevP2P, RLP Serialization, and Verkle Trees.
-  - 📜 Contributed to the Lodestar Consensus client by implementing EIP-4881, enhancing Ethereum's protocol security and efficiency.
+  
 
 - **Software Engineering Intern** @ Witness Chain
   - 🔒 Integrated RSA accumulator for proof of transaction inclusion, ensuring data integrity.
   - 🛠️ Developed smart contracts for EigenLayer AVS and EIP integration, pushing the boundaries of blockchain scalability.
-  - ⚙️ Optimized Geth and Optimism nodes to save space, enhancing node performance and reliability.
+ 
 
 - **Research Intern** @ JP Morgan and Chase
   - 🔍 Conducted in-depth research on zk protocols like Nova, Plonky2, Groth16, Plonk, and Halo2.
