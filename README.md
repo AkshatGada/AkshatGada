@@ -15,7 +15,8 @@
 - **Research Intern** @ JP Morgan and Chase
   - 🔍 Conducted in-depth research on zk protocols like Nova, Plonky2, Groth16, Plonk, and Halo2.
   - 🧮 Developed circuits for ML model verification in federated learning nodes using Circom, Noir, and Rust.
-  - 📄 Authored an insightful article on zk proofs and ML model verification, contributing to the field of secure machine learning.
+  - 📄 Authored an insightful article on zk proofs and ML model verification, contributing to the field of secure machine learning. ( 
+        https://medium.com/@akshatgada/federated-learning-using-zero-knowledge-proofs-a866986b6e0d )
 
 ### 🏆 Rewards and Recognitions:
 - 🥇 **Filecoin Track Prize** @ Unfold Hackathon
