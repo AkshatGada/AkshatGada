@@ -18,7 +18,7 @@
   - 📄 Authored an insightful article on zk proofs and ML model verification, contributing to the field of secure machine learning. ( 
         https://medium.com/@akshatgada/federated-learning-using-zero-knowledge-proofs-a866986b6e0d )
 
-- 🌐 Co-Founder @ BOBDAO(https://x.com/bobdao5?lang=en):
+- 🌐 Co-Founder @ BOBDAO (https://x.com/bobdao5?lang=en):
    - 🚀 Building a student-centric community for Web3 builders. Organized 10+ workshops and meetups, partnered with 50+ college clubs, and hosted 
      India's largest online Web3 cohort.
 
