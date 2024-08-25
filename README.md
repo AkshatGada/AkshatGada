@@ -43,3 +43,15 @@
 AkshatGada/AkshatGada is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+Here's a concise GitHub bio for you:
+
+---
+
+**Protocol Engineer | Developer Advocate | Co-founder @ BOBDAO | DevRel @ Polygon Labs**
+
+Passionate about building decentralized solutions and fostering vibrant developer communities. Currently focused on ZK rollups, Layer 2 scaling, and benchmarking with Plonky3. Enthusiast of Rust programming and cryptography. Let's build the future of the web together.
+
+---
+
+Feel free to modify it based on your specific preferences!
