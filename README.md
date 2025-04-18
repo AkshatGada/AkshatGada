@@ -5,9 +5,10 @@
 ### 💼 Experience:
 - **Ethereum Protocol Contributor** @ Ethereum Protocol Fellowship
   - 🏗️ Mastered Execution client architecture, Consensus client architecture, Engine API, SSZ, JSON-RPC, DevP2P, RLP Serialization, and Verkle Trees.
-  
+  - Contributed to the Lodestar (Chainsafe) Consensu client by implementing the EIP-4881 Deposit Contract
+    Snapshot Interface in their codebase
 
-- **Software Engineering Intern** @ Witness Chain
+- **Software Enginering Intern** @ Witness Chain
   - 🔒 Integrated RSA accumulator for proof of transaction inclusion, ensuring data integrity.
   - 🛠️ Developed smart contracts for EigenLayer AVS and EIP integration, pushing the boundaries of blockchain scalability.
  
