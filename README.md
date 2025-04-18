@@ -3,7 +3,7 @@
 👀 Born into the dynamic blockchain ecosystem, my journey has been nothing short of exhilarating. Here's a glimpse into my world of blockchain adventures and achievements:
 
 ### 💼 Experience:
-- **Ethereum Protocol Fellow** @ Ethereum Protocol Fellowship
+- **Ethereum Protocol Contributor** @ Ethereum Protocol Fellowship
   - 🏗️ Mastered Execution client architecture, Consensus client architecture, Engine API, SSZ, JSON-RPC, DevP2P, RLP Serialization, and Verkle Trees.
   
 
