@@ -1,58 +1,49 @@
-### 👋 Hi, I’m @AkshatGada
+### Hi, I'm Akshat 👋
 
-👀 Born into the dynamic blockchain ecosystem, my journey has been nothing short of exhilarating. Here's a glimpse into my world of blockchain adventures and achievements:
+**Developer Relations Engineer @ [Polygon](https://polygon.technology/)** — building the tools that let AI agents pay.
 
-### 💼 Experience:
-- **Ethereum Protocol Contributor** @ Ethereum Protocol Fellowship
-  - 🏗️ Mastered Execution client architecture, Consensus client architecture, Engine API, SSZ, JSON-RPC, DevP2P, RLP Serialization, and Verkle Trees.
-  - Contributed to the Lodestar (Chainsafe) Consensu client by implementing the EIP-4881 Deposit Contract
-    Snapshot Interface in their codebase
+I work on **agentic payments**: giving AI agents wallets, identity, and the ability to pay per request over [x402](https://www.x402.org/) and settle onchain. Basically, I'm helping build the machine-payable web — the rails for an economy where software transacts on its own.
 
-- **Software Enginering Intern** @ Witness Chain
-  - 🔒 Integrated RSA accumulator for proof of transaction inclusion, ensuring data integrity.
-  - 🛠️ Developed smart contracts for EigenLayer AVS and EIP integration, pushing the boundaries of blockchain scalability.
- 
+Before Polygon I spent my time deep in protocol engineering and zero-knowledge research. Now I spend it making all of that usable for the agents that are about to become the internet's primary buyers.
 
-- **Research Intern** @ JP Morgan and Chase
-  - 🔍 Conducted in-depth research on zk protocols like Nova, Plonky2, Groth16, Plonk, and Halo2.
-  - 🧮 Developed circuits for ML model verification in federated learning nodes using Circom, Noir, and Rust.
-  - 📄 Authored an insightful article on zk proofs and ML model verification, contributing to the field of secure machine learning. ( 
-        https://medium.com/@akshatgada/federated-learning-using-zero-knowledge-proofs-a866986b6e0d )
-
-- 🌐 Co-Founder @ BOBDAO (https://x.com/bobdao5?lang=en):
-   - 🚀 Building a student-centric community for Web3 builders. Organized 10+ workshops and meetups, partnered with 50+ college clubs, and hosted 
-     India's largest online Web3 cohort.
-
-### 🏆 Rewards and Recognitions:
-- 🥇 **Filecoin Track Prize** @ Unfold Hackathon
-- 🌟 **Top 5** @ Web3 Conference Hack
-- 🚀 **IPFS Track Prize** @ Eth India
-
-### 🔭 Always Learning:
-- Deep diving into Solidity and advanced cryptographic techniques.
-- Exploring the realms of decentralized applications, zk-SNARKs, and Ethereum core development.
-
-### 💞️ Let's Collaborate:
-- Passionate about teaming up on innovative dApp and Ethereum projects.
-- Reach out at [akshatgada@gmail.com](mailto:akshatgada@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/akshat-gada-719076228/).
+🌐 **[akshatgada.com](https://akshatgada.com)** · ✍️ **[Writing](https://akshatgada.com/blog/)** · 🐦 **[@gada_akshat](https://x.com/gada_akshat)**
 
 ---
 
-✨ Join me on this exciting journey in blockchain technology, and let's build the decentralized future together!
+### 🤖 What I'm building now — Agentic payments @ Polygon
 
-<!---
-AkshatGada/AkshatGada is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-Here's a concise GitHub bio for you:
-
----
-
-**Protocol Engineer | Developer Advocate | Co-founder @ BOBDAO | DevRel @ Polygon Labs**
-
-Passionate about building decentralized solutions and fostering vibrant developer communities. Currently focused on ZK rollups, Layer 2 scaling, and benchmarking with Plonky3. Enthusiast of Rust programming and cryptography. Let's build the future of the web together.
+- **[Agent CLI](https://polygon.technology/agent-cli)** — one install gives an AI agent a session wallet, an onchain identity, stablecoin payments, swaps, bridging, and pay-per-call API access. No private keys exposed.
+- **[Polygon x402 facilitator (`x402-rs`)](https://github.com/0xPolygon/x402-rs)** — the Rust middleware that sits between buyer and seller and facilitates the payment. Server middleware gates a route behind a price; client middleware pays it.
+- **[Agentic Services](https://agentic-services.polygon.technology/discover)** — a directory where services list themselves so paying agents can discover and call them per request in USDC.
+- **[AgentConnect](https://agentconnect.polygon.technology/)** — links an agent to a real, user-approved wallet, and serves the machine-readable skill agents fetch to learn the onchain lifecycle.
+- **[Agentic payments docs](https://docs.polygon.technology/payment-services/agentic-payments/agent-integration/intro)** — the developer guide for agents that pay onchain: negotiating price, signing intents, settling per request with x402 + ERC-8004.
+- **[PIP-82 — Agentic Commerce Gas Program](https://forum.polygon.technology/t/pip-82-agentic-commerce-gas-program/21721)** — a Polygon Improvement Proposal I co-authored, recycling up to $1M in base-fee rebates to public x402 facilitators to cut gas friction for agent-to-agent commerce.
 
 ---
 
-Feel free to modify it based on your specific preferences!
+### 💼 Before Polygon
+
+- **Ethereum Protocol Fellowship** — Protocol contributor. Implemented the **EIP-4881** deposit-contract snapshot interface in the **Lodestar** (ChainSafe) consensus client. Lived deep in execution/consensus client internals, Engine API, SSZ, DevP2P, and RLP.
+- **Witness Chain** — Software Engineering Intern. Built an **RSA-accumulator** proof of transaction inclusion and smart contracts for an **EigenLayer AVS**.
+- **JP Morgan** — Research Intern. Researched ZK proof systems (Nova, Plonky2, Groth16, PLONK, Halo2) and built circuits to verify ML models in federated-learning nodes using **Circom, Noir, and Rust**. [Wrote about it →](https://medium.com/@akshatgada/federated-learning-using-zero-knowledge-proofs-a866986b6e0d)
+- **BOBDAO** — Co-founder. Grew a student Web3 developer community: 10+ workshops, 50+ campus partners, and one of India's largest online Web3 cohorts.
+
+---
+
+### 🏆 Recognition
+
+🥇 Filecoin Track Prize @ Unfold Hackathon · 🌟 Top 5 @ Web3 Conference Hack · 🚀 IPFS Track Prize @ ETHIndia
+
+---
+
+### 🛠️ Tech I reach for
+
+`Rust` · `Solidity` · `TypeScript` · `x402` · `EVM` · `ERC-8004` · `MCP` · ZK (`Circom`, `Noir`) · consensus/execution client internals
+
+---
+
+### 📫 Reach me
+
+Building an API, dataset, or MCP tool that agents should pay for — or just want to talk agentic payments and x402? I'm always up for a good thread.
+
+[Website](https://akshatgada.com) · [X](https://x.com/gada_akshat) · [LinkedIn](https://www.linkedin.com/in/akshat-gada-719076228/) · agada@polygon.technology
