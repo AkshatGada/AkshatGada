@@ -1,7 +1,5 @@
 ### Hi, I'm Akshat 👋
 
-**Developer Relations Engineer @ [Polygon](https://polygon.technology/)** — building the tools that let AI agents pay.
-
 I work on **agentic payments**: giving AI agents wallets, identity, and the ability to pay per request over [x402](https://www.x402.org/) and settle onchain. Basically, I'm helping build the machine-payable web — the rails for an economy where software transacts on its own.
 
 Before Polygon I spent my time deep in protocol engineering and zero-knowledge research. Now I spend it making all of that usable for the agents that are about to become the internet's primary buyers.
