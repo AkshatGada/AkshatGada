@@ -4,7 +4,7 @@ I work on **agentic payments**: giving AI agents wallets, identity, and the abil
 
 Before Polygon I spent my time deep in protocol engineering and zero-knowledge research. Now I spend it making all of that usable for the agents that are about to become the internet's primary buyers.
 
-🌐 **[akshatgada.com](https://akshatgada.com)** · ✍️ **[Writing](https://akshatgada.com/blog/)** · 🐦 **[@gada_akshat](https://x.com/gada_akshat)**
+🌐 **[akshatgada.com](https://akshatgada.com)** · X **[@gada_akshat](https://x.com/gada_akshat)**
 
 ---
 
