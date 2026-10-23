@@ -2,13 +2,11 @@
 
 I work on **agentic payments**: giving AI agents wallets, identity, and the ability to pay per request over [x402](https://www.x402.org/) and settle onchain. Basically, I'm helping build the machine-payable web — the rails for an economy where software transacts on its own.
 
-Before Polygon I spent my time deep in protocol engineering and zero-knowledge research. Now I spend it making all of that usable for the agents that are about to become the internet's primary buyers.
-
 🌐 **[akshatgada.com](https://akshatgada.com)** · X **[@gada_akshat](https://x.com/gada_akshat)**
 
 ---
 
-### 🤖 What I'm building now — Agentic payments @ Polygon
+### 🤖 What I built at Polygon — Agentic payments 
 
 - **[Agent CLI](https://polygon.technology/agent-cli)** — one install gives an AI agent a session wallet, an onchain identity, stablecoin payments, swaps, bridging, and pay-per-call API access. No private keys exposed.
 - **[Polygon x402 facilitator (`x402-rs`)](https://github.com/0xPolygon/x402-rs)** — the Rust middleware that sits between buyer and seller and facilitates the payment. Server middleware gates a route behind a price; client middleware pays it.
