@@ -40,6 +40,4 @@ I work on **agentic payments**: giving AI agents wallets, identity, and the abil
 
 ### 📫 Reach me
 
-Building an API, dataset, or MCP tool that agents should pay for — or just want to talk agentic payments and x402? I'm always up for a good thread.
-
-[Website](https://akshatgada.com) · [X](https://x.com/gada_akshat) · [LinkedIn](https://www.linkedin.com/in/akshat-gada-719076228/) · agada@polygon.technology
+[Website](https://akshatgada.com) · [X](https://x.com/gada_akshat) · [LinkedIn](https://www.linkedin.com/in/akshat-gada-719076228/) · akshatgada@gmail.com
